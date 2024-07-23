@@ -1,0 +1,389 @@
+{
+  "menu_items": [
+    {
+      "label": "Home",
+      "path": "#home",
+      "offset": "70"
+    },
+    {
+      "label": "How to",
+      "path": "#how-to",
+      "offset": "70"
+    },
+    {
+      "label": "Features",
+      "path": "#features",
+      "offset": "70"
+    },
+    {
+      "label": "Portfolio",
+      "path": "#portfolio",
+      "offset": "70"
+    },
+    {
+      "label": "News",
+      "path": "#newsfeed",
+      "offset": "70"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "logo": "../../assets/image/dropboxLandingPage/logos/envato.png",
+      "name": "envato"
+    },
+    {
+      "id": 2,
+      "logo": "../../assets/image/dropboxLandingPage/logos/evernote.png",
+      "name": "evernote"
+    },
+    {
+      "id": 3,
+      "logo": "../../assets/image/dropboxLandingPage/logos/forbes.png",
+      "name": "forbes"
+    },
+    {
+      "id": 4,
+      "logo": "../../assets/image/dropboxLandingPage/logos/geekwire.png",
+      "name": "geekwire"
+    },
+    {
+      "id": 5,
+      "logo": "../../assets/image/dropboxLandingPage/logos/slack.png",
+      "name": "slack"
+    },
+    {
+      "id": 6,
+      "logo": "../../assets/image/dropboxLandingPage/logos/usa-today.png",
+      "name": "usa-today"
+    }
+  ],
+  "appIntegration": {
+    "sectionTitle": "Lets see what we integrate",
+    "sectionDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "apps": [
+      {
+        "id": 1,
+        "icon": "../../assets/image/dropboxLandingPage/icons/adobe.png",
+        "name": "adobe",
+        "bgColor": null,
+        "isBlurred": true
+      },
+      {
+        "id": 2,
+        "icon": "../../assets/image/dropboxLandingPage/icons/adobe.png",
+        "name": "adobe",
+        "bgColor": "#fff",
+        "isBlurred": false
+      },
+      {
+        "id": 3,
+        "icon": "../../assets/image/dropboxLandingPage/icons/canva.png",
+        "name": "canva",
+        "bgColor": null,
+        "isBlurred": false
+      },
+      {
+        "id": 4,
+        "icon": "../../assets/image/dropboxLandingPage/icons/clipchamp.png",
+        "name": "clipchamp",
+        "bgColor": "#fff",
+        "isBlurred": false
+      },
+      {
+        "id": 5,
+        "icon": "../../assets/image/dropboxLandingPage/icons/google.png",
+        "name": "google",
+        "bgColor": null,
+        "isBlurred": false
+      },
+      {
+        "id": 6,
+        "icon": "../../assets/image/dropboxLandingPage/icons/office.png",
+        "name": "office",
+        "bgColor": null,
+        "isBlurred": false
+      },
+      {
+        "id": 7,
+        "icon": "../../assets/image/dropboxLandingPage/icons/sproutsocial.png",
+        "name": "sproutsocial",
+        "bgColor": null,
+        "isBlurred": true
+      },
+      {
+        "id": 8,
+        "icon": "../../assets/image/dropboxLandingPage/icons/teams.png",
+        "name": "teams",
+        "bgColor": null,
+        "isBlurred": true
+      },
+      {
+        "id": 9,
+        "icon": "../../assets/image/dropboxLandingPage/icons/clipchamp.png",
+        "name": "clipchamp",
+        "bgColor": null,
+        "isBlurred": true
+      },
+      {
+        "id": 10,
+        "icon": "../../assets/image/dropboxLandingPage/icons/office.png",
+        "name": "office",
+        "bgColor": null,
+        "isBlurred": true
+      },
+      {
+        "id": 11,
+        "icon": "../../assets/image/dropboxLandingPage/icons/slack.png",
+        "name": "slack",
+        "bgColor": null,
+        "isBlurred": false
+      },
+      {
+        "id": 12,
+        "icon": "../../assets/image/dropboxLandingPage/icons/sproutsocial.png",
+        "name": "sproutsocial",
+        "bgColor": "#fff",
+        "isBlurred": false
+      },
+      {
+        "id": 13,
+        "icon": "../../assets/image/dropboxLandingPage/icons/teams.png",
+        "name": "teams",
+        "bgColor": null,
+        "isBlurred": false
+      },
+      {
+        "id": 14,
+        "icon": "../../assets/image/dropboxLandingPage/icons/google.png",
+        "name": "google",
+        "bgColor": null,
+        "isBlurred": true
+      }
+    ]
+  },
+  "howTos": [
+    {
+      "id": 1,
+      "icon": "../../assets/image/dropboxLandingPage/icons/numb-01.png",
+      "title": "of Fortune 500 companies",
+      "text": "have at least one Dropbox team plan.",
+      "linkLabel": "Learn More",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "icon": "../../assets/image/dropboxLandingPage/icons/numb-02.png",
+      "title": "teams globally",
+      "text": "use Dropbox to share work, safeguard content, and grow their business.",
+      "linkLabel": "Learn More",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "icon": "../../assets/image/dropboxLandingPage/icons/numb-03.png",
+      "title": "connections and counting",
+      "text": "created through Dropbox file sharing.",
+      "linkLabel": "Learn More",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "icon": "../../assets/image/dropboxLandingPage/icons/numb-04.png",
+      "title": "mobile app downloads",
+      "text": "with Editors’ Choice Awards from the Google Play and Apple App Store.",
+      "linkLabel": "Learn More",
+      "link": "#"
+    }
+  ],
+  "portfolios": [
+    {
+      "id": 1,
+      "bgColor": "#14c8eb",
+      "title": "Manage and maintain confidentiality",
+      "description": "Dial up confidentiality with NDAs, passwords, access controls, and instant access revocation for all file types.",
+      "media": "../../assets/image/dropboxLandingPage/protect1.png"
+    },
+    {
+      "id": 2,
+      "bgColor": "#c8aff0",
+      "title": "A backup that gets you back up, fast",
+      "description": "Shield files from hardware failures, ransomware and data loss with a 1-year version history.",
+      "media": "../../assets/image/dropboxLandingPage/protect2.png"
+    },
+    {
+      "id": 3,
+      "bgColor": "#fad24b",
+      "title": "Prevent unauthorized access",
+      "description": "Keep your Dropbox account protected with two-step verification, end-to-end encrypted password manager, alerts on breaches, and secure login sharing.",
+      "media": "../../assets/image/dropboxLandingPage/protect3.png"
+    },
+    {
+      "id": 4,
+      "bgColor": "#b4dc19",
+      "title": "Your folders, encrypted",
+      "description": "Share and collaborate on sensitive data and preventing unauthorized interception and breaches —all with the functionality of a standard folder. Available with Business Plus.",
+      "media": "../../assets/image/dropboxLandingPage/protect4.png"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "icon": "../../assets/image/dropboxLandingPage/icons/icon1.png",
+      "title": "Simplify feedback loops",
+      "text": "Create screen recordings or screenshots to easily share feedback with clients and stakeholders."
+    },
+    {
+      "id": 2,
+      "icon": "../../assets/image/dropboxLandingPage/icons/icon2.png",
+      "title": "Collaborate across timezones",
+      "text": "Whatever you’re working on and wherever you’re working, Dropbox makes it easy to work together. If you need to open a document and make changes or comments, you can—online, offline, or on the road."
+    },
+    {
+      "id": 3,
+      "icon": "../../assets/image/dropboxLandingPage/icons/icon3.png",
+      "title": "Track what your audience loves",
+      "text": "Securely share your documents and custom-branded content with stakeholders—whether they have an account or not—and get real-time document analytics to help make data-driven decisions."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "date": "June 3, 2020",
+      "image": "../../assets/image/dropboxLandingPage/blog1.png",
+      "title": "The three Fundamental Rules to Keep Your Website Goal Orientated",
+      "excerpt": {
+        "label": "Learn More",
+        "link": "#"
+      }
+    },
+    {
+      "id": 2,
+      "date": "Dec 8, 2020",
+      "image": "../../assets/image/dropboxLandingPage/blog2.png",
+      "title": "Five Common Mistakes Teams Make When Tracking Performance",
+      "excerpt": {
+        "label": "Learn More",
+        "link": "#"
+      }
+    },
+    {
+      "id": 3,
+      "date": "Dec 8, 2020",
+      "image": "../../assets/image/dropboxLandingPage/blog3.png",
+      "title": "Why You Might Want to Reconsider with Tracking First Meaningful Paint",
+      "excerpt": {
+        "label": "Learn More",
+        "link": "#"
+      }
+    }
+  ],
+  "footer": {
+    "about": {
+      "logo": "../../assets/image/dropboxLandingPage/logo.svg",
+      "text": "We run Advanced Search reports on the criteria you care about to see how work is progressing and where to focus."
+    },
+    "widgets": [
+      {
+        "id": 2,
+        "title": "About Us",
+        "list": [
+          {
+            "id": 1,
+            "title": "Support Center",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Customer Support",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "About Us",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Copyright",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Popular Campaign",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Our Information",
+        "list": [
+          {
+            "id": 1,
+            "title": "Return Policy ",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Privacy Policy",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "Terms & Conditions",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Site Map",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Store Hours",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "My Account",
+        "list": [
+          {
+            "id": 1,
+            "title": "Press inquiries",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Social media ",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "directories",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Images & B-roll",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Permissions",
+            "link": "#"
+          }
+        ]
+      }
+    ],
+    "contactInfo": {
+      "title": "Contact info",
+      "address": "Mohakhali DOHS, Amsterdam, Netherlands",
+      "phone": "+31 62 19 22 705",
+      "openingTime": "7 Days - 8am - 10pm",
+      "email": "info@redqteam.com"
+    }
+  }
+}

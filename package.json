@@ -1,0 +1,34 @@
+{
+  "name": "dropbox-marketing-interview",
+  "description": "Demo put together for my dropbox interview",
+  "version": "1.0.5",
+  "private": true,
+  "author": "Femi Sowemimo",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "husky": "^7.0.2",
+    "lint-staged": "^11.1.2",
+    "prettier": "^2.1.2",
+    "rimraf": "^3.0.2"
+  },
+  "workspaces": [
+    "packages/landing-gatsby"
+  ],
+  "scripts": {
+    "clean": "yarn workspaces run rimraf \"{node_modules,.cache,out,dist}\" && rimraf node_modules",
+    "gatsby-dev": "yarn workspace @dropbox-marketing-interview/gatsby run dev",
+    "gatsby-build": "yarn workspace @dropbox-marketing-interview/gatsby run build",
+    "gatsby-serve": "yarn workspace @dropbox-marketing-interview/gatsby run start"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,md,css}": [
+      "prettier --trailing-comma es5 --single-quote --write"
+    ]
+  },
+  "dependencies": {}
+}
